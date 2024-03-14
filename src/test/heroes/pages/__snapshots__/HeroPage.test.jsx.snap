@@ -1,0 +1,76 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <HeroPage /> debe de mostrarse correctamente 1`] = `
+<div>
+  <div
+    class="row mt-5"
+  >
+    <div
+      class="col-4"
+    >
+      <img
+        alt="Green Lantern"
+        class="img-thumbnail animate__animated animate__fadeInLeft"
+        src="/assets/heroes/dc-green.jpg"
+      />
+    </div>
+    <div
+      class="col-8"
+    >
+      <h3>
+        Green Lantern
+      </h3>
+      <ul
+        class="list-group list-group-flush"
+      >
+        <li
+          class="list-group-item"
+        >
+           
+          <b>
+            Alter ego:
+          </b>
+           
+          Alan Scott
+           
+        </li>
+        <li
+          class="list-group-item"
+        >
+           
+          <b>
+            Publisher:
+          </b>
+           
+          DC Comics
+           
+        </li>
+        <li
+          class="list-group-item"
+        >
+           
+          <b>
+            First appearance:
+          </b>
+           
+          All-American Comics #16
+           
+        </li>
+      </ul>
+      <h5
+        class="mt-3"
+      >
+         Characters 
+      </h5>
+      <p>
+        Alan Scott, Hal Jordan, Guy Gardner, John Stewart, Kyle Raynor, Jade, Sinestro, Simon Baz
+      </p>
+      <button
+        class="btn btn-outline-primary"
+      >
+        Regresar
+      </button>
+    </div>
+  </div>
+</div>
+`;
