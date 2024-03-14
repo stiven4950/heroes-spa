@@ -1,8 +1,10 @@
-# React + Vite
+# Heroes Single Page Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This practical project shows how to use useReducer() hook to manage state in the App and the way of procceed with unitary tests.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Unit test evaluate:
+- Components
+- Custom routes
+- Reducer
+- Internal functions of components (with mocking)
+- Mocking functions of another packages
